@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mikini22
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on php,jquery,js
+- 🌱 I’m currently on Vue js
+- 💞️ I’m looking to collaborate on Vue js,jquery,js
 - 📫 How to reach me komolafemichael2002@gmail.com
 
 <!---
